@@ -3,7 +3,7 @@
 > **Learn Computer Skills. For Free.**  
 > An open, tuition-free digital literacy and computer education platform empowering individuals worldwide with essential technology skills, coding foundations, and verified digital credentials.
 
-🌐 **Live Demo:** [https://fakharshah2007.github.io/computer-class/](https://fakharshah2007.github.io/computer-class/)
+🌐 **Live Demo:** [https://fakharshah2007.github.io/wild-sultan-/](https://fakharshah2007.github.io/wild-sultan-/)
 
 ---
 
@@ -58,12 +58,12 @@ Then open http://localhost:8000.
 
 ## 🌐 Deploying to GitHub Pages
 
-1. Navigate to your repository on GitHub: https://github.com/fakharshah2007/computer-class
+1. Navigate to your repository on GitHub: https://github.com/fakharshah2007/wild-sultan-
 2. Go to **Settings** > **Pages**.
 3. Under **Build and deployment** > **Source**, choose **Deploy from a branch** (or use the included GitHub Actions workflow).
 4. Select the **main** branch and **/** (root) folder, then click **Save**.
 5. Your site will be live at:
-   **https://fakharshah2007.github.io/computer-class/**
+   **https://fakharshah2007.github.io/wild-sultan-/**
 
 ---
 
