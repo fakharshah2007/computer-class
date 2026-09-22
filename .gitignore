@@ -9,3 +9,5 @@ npm-debug.log*
 
 # Dependencies
 node_modules/
+push_to_github.bat
+
